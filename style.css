@@ -1,0 +1,55 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.title{
+    text-align: center;
+    font-size: 36px;
+    color: black;
+}
+
+.options{
+    text-align: center;
+    padding: 15px;
+}
+
+a{
+    color: #000;
+    margin: 10px;
+    font-size: 22px;
+    text-decoration: none;
+    
+}
+a:hover{
+    color: gray;
+}
+
+.image{
+    width: 300px;
+}
+
+.introduction h2, .introduction p{
+    text-align: center;
+}
+
+.introduction h2{
+    font-size: 22px;
+}
+
+.ingredient-list{
+    padding: 10px;
+}
+
+.ingredient-list h3{
+    font-size: 20px;
+}
+
+.steps{
+    padding: 10px;
+}
+
+.steps h3{
+    font-size: 20px;
+}
+
